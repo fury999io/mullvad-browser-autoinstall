@@ -6,3 +6,7 @@ Bash script for automated installation and uninstallion of Mullvad Browser on GN
 ```
 curl https://paste.debian.net/plain/1277422 | bash
 ```
+* Uninstall:
+```
+curl https://paste.debian.net/plain/1277423 | bash
+```
