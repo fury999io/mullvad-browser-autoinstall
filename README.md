@@ -1,4 +1,4 @@
-# mullvad-browser-autoinstall-nix
+# mullvad-browser-autoinstall
 Bash script for automated installation and uninstallion of Mullvad Browser on GNU/Linux
 
 ## One liner commands
